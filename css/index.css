@@ -1,0 +1,49 @@
+body {
+    height: auto;
+  }
+  div {
+    width: 69%;
+    height: 69%;
+    border: 2px solid black;
+    float: left;
+  }
+  ul {
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  menu {
+    float: right;
+    position: absolute;
+    right: 0%;
+    top: 10%;
+    width: 30%;
+  }
+  header{
+    width: 100%;
+    height: auto;
+    background-color:cadetblue;
+    text-align: center;
+    color: aliceblue;
+    border: 10px black;
+  }
+  footer{
+    width: 100%;
+    height: 50px;
+    background: linear-gradient(to right, red, green);
+    text-align: center;
+    color: aliceblue;
+    border: 10px black;
+    bottom: 0px;
+    text-align: center;
+  }
+  .html{
+    font-family: 'Times New Roman', Times, serif;
+  }
+  img {
+    border: 1px solid black;
+    box-shadow: 3px 0 3px 0 black;
+    margin: 0 auto;
+  }
+  .container {
+    margin: 0 auto;
+  }
